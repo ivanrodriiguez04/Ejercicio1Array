@@ -16,6 +16,11 @@ namespace Ejercicio1Array.Servicios
                 antiguaVajilla[i] = pedirInformacion();
             }
         }
+        /// <summary>
+        /// Metodo que pide la informacion necesaria que se va a añadir al array
+        /// 18/12/2023 -> irodhan
+        /// </summary>
+        /// <returns>Devuelve el objeto con la informacion necesaria</returns>
         private VajillaDto pedirInformacion() 
         {
             VajillaDto vajilla = new VajillaDto();
