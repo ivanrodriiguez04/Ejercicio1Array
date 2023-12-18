@@ -1,0 +1,14 @@
+C:\Users\csi22-irodhan\Desktop\Programacion\Ejercicio1Array\bin\Debug\net6.0\Ejercicio1Array.exe
+C:\Users\csi22-irodhan\Desktop\Programacion\Ejercicio1Array\bin\Debug\net6.0\Ejercicio1Array.deps.json
+C:\Users\csi22-irodhan\Desktop\Programacion\Ejercicio1Array\bin\Debug\net6.0\Ejercicio1Array.runtimeconfig.json
+C:\Users\csi22-irodhan\Desktop\Programacion\Ejercicio1Array\bin\Debug\net6.0\Ejercicio1Array.dll
+C:\Users\csi22-irodhan\Desktop\Programacion\Ejercicio1Array\bin\Debug\net6.0\Ejercicio1Array.pdb
+C:\Users\csi22-irodhan\Desktop\Programacion\Ejercicio1Array\obj\Debug\net6.0\Ejercicio1Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csi22-irodhan\Desktop\Programacion\Ejercicio1Array\obj\Debug\net6.0\Ejercicio1Array.AssemblyInfoInputs.cache
+C:\Users\csi22-irodhan\Desktop\Programacion\Ejercicio1Array\obj\Debug\net6.0\Ejercicio1Array.AssemblyInfo.cs
+C:\Users\csi22-irodhan\Desktop\Programacion\Ejercicio1Array\obj\Debug\net6.0\Ejercicio1Array.csproj.CoreCompileInputs.cache
+C:\Users\csi22-irodhan\Desktop\Programacion\Ejercicio1Array\obj\Debug\net6.0\Ejercicio1Array.dll
+C:\Users\csi22-irodhan\Desktop\Programacion\Ejercicio1Array\obj\Debug\net6.0\refint\Ejercicio1Array.dll
+C:\Users\csi22-irodhan\Desktop\Programacion\Ejercicio1Array\obj\Debug\net6.0\Ejercicio1Array.pdb
+C:\Users\csi22-irodhan\Desktop\Programacion\Ejercicio1Array\obj\Debug\net6.0\Ejercicio1Array.genruntimeconfig.cache
+C:\Users\csi22-irodhan\Desktop\Programacion\Ejercicio1Array\obj\Debug\net6.0\ref\Ejercicio1Array.dll
